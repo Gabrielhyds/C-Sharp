@@ -13,15 +13,15 @@ namespace Listas
             //Variaveis e seus tipos
             int numero = 10; //numeros inteiros
 
-            float numero = 1.2; //numeros com virgulas
+            float numero = 1.2f; //numeros com virgulas
 
             string texto = "C#"; // armazena textos
 
             char texto = "O"; //Armazena 1 caracter
 
             bool logica = True; // valores logicos {True} e {False}
-            
-             
+
+
         }
     }
 }
